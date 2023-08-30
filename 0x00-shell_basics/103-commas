@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -af [abc]* 
+ls -amvp*
